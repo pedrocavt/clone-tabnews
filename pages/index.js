@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Marca o Follow UP</h1>
+    return <h1>Eai parceiro</h1>
 }
 
 export default Home;
